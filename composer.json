@@ -1,0 +1,29 @@
+{
+  "name": "aurealis/doctrine-extensions",
+  "type": "library",
+  "description": "Extensions for Doctrine ORM / DBAL",
+  "homepage": "http://www.todo.com",
+  "keywords": [
+    "database",
+    "doctrine"
+  ],
+  "license": "TODO",
+  "authors": [
+    {
+      "name": "Florian Eichler",
+      "email": "florian@eichler.co.at",
+      "homepage": "http://www.todo.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "doctrine/orm": ">=2.2.3"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.*",
+    "doctrine/data-fixtures": "dev-master"
+  },
+  "autoload": {
+  }
+}
