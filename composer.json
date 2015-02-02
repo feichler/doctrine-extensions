@@ -25,5 +25,8 @@
     "doctrine/data-fixtures": "dev-master"
   },
   "autoload": {
+    "psr-4": {
+      "Aurealis\\DoctrineExtensions\\": "src"
+    }
   }
 }
